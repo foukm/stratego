@@ -17,8 +17,6 @@ The game features a grid-based board, two players (Red vs Blue), movable and unm
   - `Menu`: pre-game popup (choose **reduced army** or not).  
   - `Informations`: side panel showing current player, turn, rescues, capture stats, winner message.
 
-> The above components and interactions reflect the report’s design and UML diagrams
-
 ---
 
 ## 🎮 Gameplay Highlights
