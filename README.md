@@ -3,8 +3,6 @@
 A desktop implementation of **Stratego (Ice vs Fire theme)** built with **Java Swing** following a clean **MVC** architecture.  
 The game features a grid-based board, two players (Red vs Blue), movable and unmovable pieces with ranks/abilities, turn logic, captures, optional reduced army mode, and an information panel with live stats.
 
-> Built with Java & Swing; the design centers on **Model–View–Controller** with clear separation of concerns. :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## 🧠 Architecture (MVC)
