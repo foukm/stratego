@@ -1,0 +1,8 @@
+com.controller
+com.model.AllPiecesForAPlayer
+com.model.Board
+com.model.Piece
+com.model.Piece.Moveable
+com.model.Piece.Unmoveable
+com.model.Player
+com.view
